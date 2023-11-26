@@ -1,0 +1,3 @@
+[submodule "notes-store"]
+	path = notes-store
+	url = https://github.com/AhmadKholy10/Notes-CRUD
